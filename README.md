@@ -5,8 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [References](#references)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -27,11 +26,11 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
+<!-- ## Conclusions
 - Conclusion 1 from the analysis
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Conclusion 4 from the analysis -->
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -45,11 +44,14 @@
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
+## References
+<!-- Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on [this tutorial](https://www.example.com). -->
+https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory
+https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/mnist_convnet.ipynb?authuser=0
+https://www.tensorflow.org/tutorials/images/cnn
 
 
 ## Contact
