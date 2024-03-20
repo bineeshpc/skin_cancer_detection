@@ -49,10 +49,9 @@
 - This project was inspired by...
 - References if any...
 - This project was based on [this tutorial](https://www.example.com). -->
-https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory
-https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/mnist_convnet.ipynb?authuser=0
-https://www.tensorflow.org/tutorials/images/cnn
-
+- [CNN Tutorial Tensorflow Docs](https://www.tensorflow.org/tutorials/images/cnn)
+- [Augmentor library docs](https://augmentor.readthedocs.io/en/master/)
+- [Image dataset loading in tensorflow](https://www.tensorflow.org/api_docs/python/tf/keras/utils/image_dataset_from_directory)
 
 ## Contact
 Created by [@bineeshpc] - feel free to contact me!
